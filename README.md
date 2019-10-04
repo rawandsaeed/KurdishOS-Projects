@@ -24,6 +24,9 @@
 | [Reactjs به كوردی](https://github.com/reactjs/ku.reactjs.org) | ئه‌م پڕۆژه‌یه‌ وه‌رگێڕانی ریئاكته‌ بۆ زمانی كوردی كه‌ سوودێكی زۆری ده‌بێت گه‌شه‌پێده‌رانی وێب | https://github.com/HeroMohammed & https://github.com/aranfatih & https://github.com/Goran216 |
 |             [Kurdish](https://github.com/dolanskurd/kurdish) | Kurdish Language Library for converting characters and digits in Persian, English and Arabic to Kurdish and vice versa.https://dolanskurd.github.io/kurdish/ |                                https://github.com/dolanskurd |
 | [Swift Tutorial Translation](https://github.com/rawandsaeed/HWSTranslation) |         ئه‌م پڕۆژه‌یه‌ وه‌رگێرانی فێركاری سویفته‌ بۆ زمانی كوردی. |                               https://github.com/rawandsaeed |
+| [WIDAT: Wikipedia Introductions(abstracts) Downloader And Translator](https://github.com/FakhruddinAbdi/Widat) | WIDAT is Zeyton/GoldenTime Co's toolkit to translate Wikipedia "abstracts". It is developed and used internally. | https://github.com/payamka & https://github.com/FakhruddinAbdi & https://github.com/layik |
+|                                                              |                                                              |                                                              |
+|                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |
 
