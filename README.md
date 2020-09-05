@@ -16,17 +16,19 @@
 
 ## خشته‌ی پڕۆژه‌كان
 
- لینكی پڕۆژه‌ | ده‌رباره‌ | ئه‌وكه‌سانه‌ی به‌ڕێوه‌ی ده‌به‌ن 
----:|---:|---:
- [فێركاری گیت به‌ كوردی](https://github.com/layik/git-kurdi) | فێركاری گیت كه‌ كتێبێكه‌ به‌ زمانی ئینگلیزی نوسراوه‌  وه‌رگێڕانی بۆ  زمانی ئینگلیزی. | https://github.com/layik & https://github.com/rawandsaeed 
- [Reactjs به كوردی](https://github.com/reactjs/ku.reactjs.org) | ئه‌م پڕۆژه‌یه‌ وه‌رگێڕانی ریئاكته‌ بۆ زمانی كوردی كه‌ سوودێكی زۆری ده‌بێت گه‌شه‌پێده‌رانی وێب | https://github.com/HeroMohammed & https://github.com/aranfatih & https://github.com/Goran216 
- [Kurdish](https://github.com/dolanskurd/kurdish) | Kurdish Language Library for converting characters and digits in Persian, English and Arabic to Kurdish and vice versa.https://dolanskurd.github.io/kurdish/ | https://github.com/dolanskurd 
- [Swift Tutorial Translation](https://github.com/rawandsaeed/HWSTranslation) | ئه‌م پڕۆژه‌یه‌ وه‌رگێرانی فێركاری سویفته‌ بۆ زمانی كوردی. | https://github.com/rawandsaeed 
- [WIDAT: Wikipedia Introductions(abstracts) Downloader And Translator](https://github.com/FakhruddinAbdi/Widat) | WIDAT is Zeyton/GoldenTime Co's toolkit to translate Wikipedia "abstracts". It is developed and used internally. | https://github.com/payamka & https://github.com/FakhruddinAbdi & https://github.com/layik 
- https://github.com/DevelopersTree/KurdishResources | کۆرپەس  و لیستی وشەی کوردی | [@encrypt0r](https://github.com/encrypt0r), [@aramrafeq](https://github.com/aramrafeq) 
- https://github.com/DevelopersTree/Kovid19 | داتای بڵاوبوونەوەی ڤایرۆسی کۆڕۆنا بە پێی حکومەتی هەرێمی کوردستان | [@encrypt0r](https://github.com/encrypt0r) 
- https://github.com/DevelopersTree/BeKurdi | لایبرەییەک بۆ خاوێنکردنەوەی تێکستی کوردی | [@encrypt0r](https://github.com/encrypt0r) 
- https://www.nawikurdi.com/ | وێبسایتێک بۆ زانینی مانای ناوە کوردییەکان | [@aramrafeq](https://github.com/aramrafeq) 
+ لینكی پڕۆژه‌ | ده‌رباره‌ | ئه‌وكه‌سانه‌ی به‌ڕێوه‌ی ده‌به‌ن | دۆخ 
+---:|---:|---:|----
+ [فێركاری گیت به‌ كوردی](https://github.com/layik/git-kurdi) | فێركاری گیت كه‌ كتێبێكه‌ به‌ زمانی ئینگلیزی نوسراوه‌  وه‌رگێڕانی بۆ  زمانی ئینگلیزی. | [@layik](https://github.com/layik), [@rawandsaeed](https://github.com/rawandsaeed) | تەواونەکراو 
+ [Reactjs به كوردی](https://github.com/reactjs/ku.reactjs.org) | ئه‌م پڕۆژه‌یه‌ وه‌رگێڕانی ریئاكته‌ بۆ زمانی كوردی كه‌ سوودێكی زۆری ده‌بێت گه‌شه‌پێده‌رانی وێب | [@Herormo](https://github.com/herormo), [@Aranfatih ](https://github.com/aranfatih), [@Goran216](https://github.com/Goran216) | تەواونەکراو 
+ [Kurdish](https://github.com/dolanskurd/kurdish) | Kurdish Language Library for converting characters and digits in Persian, English and Arabic to Kurdish and vice versa.https://dolanskurd.github.io/kurdish/ | [@Dolanskurd](https://github.com/dolanskurd) | تەواوبوو 
+ [Swift Tutorial Translation](https://github.com/rawandsaeed/HWSTranslation) | ئه‌م پڕۆژه‌یه‌ وه‌رگێرانی فێركاری سویفته‌ بۆ زمانی كوردی. | [@rawandsaeed](https://github.com/rawandsaeed) | تەواونەکراو 
+ [WIDAT: Wikipedia Introductions(abstracts) Downloader And Translator](https://github.com/FakhruddinAbdi/Widat) | WIDAT is Zeyton/GoldenTime Co's toolkit to translate Wikipedia "abstracts". It is developed and used internally. | [@FakhruddinAbdi](https://github.com/FakhruddinAbdi), [@layik](https://github.com/layik), [@payamka](https://github.com/payamka) | تەواوبوو 
+ https://github.com/DevelopersTree/KurdishResources | کۆرپەس  و لیستی وشەی کوردی | [@encrypt0r](https://github.com/encrypt0r), [@aramrafeq](https://github.com/aramrafeq) | تەواوبوو 
+ https://github.com/DevelopersTree/Kovid19 | داتای بڵاوبوونەوەی ڤایرۆسی کۆڕۆنا بە پێی حکومەتی هەرێمی کوردستان | [@encrypt0r](https://github.com/encrypt0r) | تەواوبوو 
+ https://github.com/DevelopersTree/BeKurdi | لایبرەییەک بۆ خاوێنکردنەوەی تێکستی کوردی | [@encrypt0r](https://github.com/encrypt0r) | تەواوبوو 
+ https://www.nawikurdi.com/ | وێبسایتێک بۆ زانینی مانای ناوە کوردییەکان | [@aramrafeq](https://github.com/aramrafeq) | تەواوبوو 
+ [Editor - Android simple test editor](https://github.com/billthefarmer/editor) | Android simple generic text editor. | [@rawandsaeed](https://github.com/rawandsaeed) | تەواوبوو 
+ [Wordpress Sorani Kurdish](https://make.wordpress.org/polyglots/teams/?locale=ckb) | وەڕگێرانی ّۆردپرێس بۆ زمانی کوردی سۆرانی |  | تەواونەبوو 
 
 
 
@@ -36,5 +38,12 @@
 
 
 
+### کەرەستە و پێشنیازکراوەکان بۆ ئاسانکاری و وەڕگێران و شتی تر
 
+- بەرنامەی مارکداون کە پشتگیری RTL بکات: 
+  - تایپۆرا -- [https://typora.io/](https://typora.io/)  
+  - ڕووکەشی ڕۆژهەڵاتی ناوەڕاست کە پشتگیری زمانی سۆڕانی کوردی دەکات - [http://theme.typora.io/theme/Middle-East/](http://theme.typora.io/theme/Middle-East/)
 
+### ئەو پرۆژانەی کە دەتوانرێت زمانی کوردی زیاد بکرێت 
+
+- 
