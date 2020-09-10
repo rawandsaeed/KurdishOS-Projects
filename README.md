@@ -36,7 +36,7 @@
 [Editor - Android simple  editor](https://github.com/billthefarmer/editor "https://github.com/billthefarmer/editor") | دەستکاریکەرێکی دەقی گشتی سادە بۆ ئەندرۆید. | [@rawandsaeed](https://github.com/rawandsaeed) | تەواوبوو 
 [Wordpress Sorani Kurdish](https://make.wordpress.org/polyglots/teams/?locale=ckb "https://make.wordpress.org/polyglots/teams/?locale=ckb") | وەرگێڕانی وۆردپرێس بۆ زمانی کوردی سۆرانی |  | تەواونەبوو 
  [LibreOffie Sorani Kurdish](https://translations.documentfoundation.org/projects/libo_ui-master/scp2sourceonlineupdate/ckb/#overview "https://translations.documentfoundation.org/projects/libo_ui-master/scp2sourceonlineupdate/ckb/#overview") | وەڕگێرانی LibreOffice بۆ زمانی کوردی سۆڕانی | [@Jwtiyar](https://twitter.com/jwtiyar) | تەواونەبوو 
- [Simple Flutter I18n](https://github.com/A7madXatab/simple_utter_i18n) |  پاکێگێکی ساده‌ بۆ مانێگ کردنی زمان لۆ فڵه‌ته‌ر | [@A7madXatab](https://github.com/A7madXatab) | ته‌واوبوو
+ [Simple Flutter I18n](https://github.com/A7madXatab/simple_flutter_i18n) |  پاکێگێکی ساده‌ بۆ مانێگ کردنی زمان لۆ فڵه‌ته‌ر | [@A7madXatab](https://github.com/A7madXatab) | ته‌واوبوو
   [GraphQl Unified Mutations](https://github.com/A7madXatab/graphql-unified-mutations) |a set of utility functions to make your graphql mutations have the same signature.| [@A7madXatab](https://github.com/A7madXatab) | ته‌واوبوو
   |  | |  
   |  | |  
