@@ -65,3 +65,7 @@
 ### ئەو پرۆژانەی کە دەتوانرێت زمانی کوردی زیاد بکرێت کە تا ئێستا نەکراوە 
 
 - 
+
+### سەرچاوەی هەمەڕەنگ 
+
+- ٤ هەزار کتێبی PDF کوردی لە بواری جیاواز و هەمەڕەنگ: https://drive.google.com/drive/folders/0BxtrcKat0xUrZjhSLXprT1NLTlE?fbclid=IwAR3cwbZm3qOtzo7dQdNUDKINBKyVizJh8ao6kw94KNt6bK6TSitaMoVFyJc
